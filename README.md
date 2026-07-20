@@ -7,7 +7,6 @@ I'm Abdullah, a passionate Frontend Developer and Software Engineering student.
 - 🚀 I'm building real-world projects and completing Frontend Mentor challenges.
 - 🎯 My goal is to become a Full Stack Web Developer.
 - 👨‍💻 Tech Stack: HTML, CSS, JavaScript, React.
-- 📫 How to reach me: your-email@example.com (ya LinkedIn)
 - ⚡ Fun fact: I enjoy turning ideas into responsive and user-friendly websites.
 
 
