@@ -41,3 +41,81 @@ const developer = {
   ],
   openTo: ["Frontend Developer Roles", "Open Source Collaboration", "Internships"]
 };
+---
+
+### 🚀 Featured Projects
+
+#### 💳 Interactive Card Details Form
+<a href="https://github.com/abdullah-zulfiqar0/interactive-card-details-form">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-zulfiqar0&repo=interactive-card-details-form&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&text_color=e2e8f0&bg_color=0f172a&border_color=7dd3fc" alt="Interactive Card Details Form Pin" />
+</a>
+
+| Layer | Technology |
+| :--- | :--- |
+| **Frontend** | React.js, CSS, HTML |
+
+🔗 **[Live Demo](https://abdullah-zulfiqar0.github.io/interactive-card-details-form/)** | 💻 **[Source Code](https://github.com/abdullah-zulfiqar0/interactive-card-details-form)**
+
+<br/>
+
+#### 🎲 Dice Game React
+<a href="https://github.com/abdullah-zulfiqar0/dice-game-react">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-zulfiqar0&repo=dice-game-react&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&text_color=e2e8f0&bg_color=0f172a&border_color=7dd3fc" alt="Dice Game Pin" />
+</a>
+
+| Layer | Technology |
+| :--- | :--- |
+| **Frontend** | React.js, JavaScript, CSS |
+
+🔗 **[Live Demo](https://abdullah-zulfiqar0.github.io/dice-game-react/)** | 💻 **[Source Code](https://github.com/abdullah-zulfiqar0/dice-game-react)**
+
+<br/>
+
+#### 🌤️ Weather App
+<a href="https://github.com/abdullah-zulfiqar0/Weather-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-zulfiqar0&repo=Weather-app&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&text_color=e2e8f0&bg_color=0f172a&border_color=7dd3fc" alt="Weather App Pin" />
+</a>
+
+| Layer | Technology |
+| :--- | :--- |
+| **Frontend** | HTML, CSS, JavaScript |
+
+🔗 **[Live Demo](https://abdullah-zulfiqar0.github.io/Weather-app/)** | 💻 **[Source Code](https://github.com/abdullah-zulfiqar0/Weather-app)**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,vscode,github" alt="My Tech Stack" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullah-zulfiqar0&show_icons=true&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&text_color=e2e8f0&bg_color=0f172a&border_color=7dd3fc" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-zulfiqar0&layout=compact&theme=nord&title_color=7dd3fc&text_color=e2e8f0&bg_color=0f172a&border_color=7dd3fc" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-zulfiqar0&theme=nord&background=0F172A&border=7DD3FC&stroke=7DD3FC&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC" alt="Streak Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdullah-zulfiqar0&theme=flat&no-frame=true&no-bg=true" alt="Trophies" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer" width="100%" />
+</div>
